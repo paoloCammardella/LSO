@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[]){
 
-    exec("ls", "");
+  
 
     return 0;
 }
